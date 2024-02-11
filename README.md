@@ -21,6 +21,7 @@
 - [CompTIA Network+](https://www.youtube.com/CREDLYLINK)
 - [CompTIA Security+](https://www.youtube.com/CREDLYLINK)
 - [Microsoft AZ-900](https://www.youtube.com/CREDLYLINK)
+- [Miscellaneous](https://www.youtube.com/CREDLYLINK)
 
 <h2>📺 Popular YouTube Videos</h2>
 
