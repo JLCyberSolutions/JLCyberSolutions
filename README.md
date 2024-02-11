@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]([https://github.com/JacobLloydCyber/ActiveDirectoryLab)
+  - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL)
   - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
