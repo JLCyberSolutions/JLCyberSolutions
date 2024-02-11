@@ -5,14 +5,18 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/JacobLloydCyber/LABURL)
-  - [Active Directory Home Lab](https://github.com/JacobLloydCyber/LABURL)
+  - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-<h2>🔖 Certifications</h2>
+<h2>📄 Resume</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+- <h2>🔖 Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
