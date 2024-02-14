@@ -20,8 +20,8 @@
 
 <h2>🔖 Certifications</h2>
 
-- [CompTIA Network+](https://www.youtube.com/CREDLYLINK)
-- [CompTIA Security+](https://www.youtube.com/CREDLYLINK)
+- [CompTIA Network+](https://www.credly.com/badges/9ae0aa89-ef85-47b2-925f-bfb9ce2442ca/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/SECURITY+)
 - [Microsoft AZ-900](https://www.youtube.com/CREDLYLINK)
 - [Oracle Cloud Infrastructure Associate](https://www.youtube.com/CREDLYLINK)
 
