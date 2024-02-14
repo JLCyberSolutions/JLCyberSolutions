@@ -6,15 +6,17 @@
 
   - [Active Directory Home Lab](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
   - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL)
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2>🐍 Python Scripts:</h2>
+
+- <b>Coming Soon...</b>
 
 
 <h2>📄 Resume</h2>
 
 - [Resume](https://www.youtube.com/Resume)
+
 
 <h2>🔖 Certifications</h2>
 
@@ -23,24 +25,21 @@
 - [Microsoft AZ-900](https://www.youtube.com/CREDLYLINK)
 - [Oracle Cloud Infrastructure Associate](https://www.youtube.com/CREDLYLINK)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JacobLloyd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JacobLloyd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JacobLloyd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JacobLloyd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://twitter.com/INSERTTEXTHERE
+[youtube]: https://www.youtube.com/c/INSERTTEXTHERE
+[instagram]: https://www.instagram.com/INSERTTEXTHERE/
 [linkedin]: https://linkedin.com/in/JacobLloydCyber
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JacobLloydCyber/JacobLloydCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
