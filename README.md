@@ -6,6 +6,7 @@
 
   - [Active Directory Home Lab](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
   - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL)
+  - [SIEM Logging & Alert Configuration Home Lab](https://github.com/JacobLloydCyber/LABURL)
 
 
 <h2>📝 Scripting:</h2>
