@@ -8,10 +8,10 @@
   - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL)
 
 
-<h2>🐍 Python Scripts:</h2>
+<h2>📝 Scripting:</h2>
 
-- <b>Coming Soon...</b>
-
+- <b>Bash</b>
+- <b>Python</b>
 
 <h2>📄 Resume</h2>
 
@@ -21,7 +21,7 @@
 <h2>🔖 Certifications</h2>
 
 - [CompTIA Network+](https://www.credly.com/badges/9ae0aa89-ef85-47b2-925f-bfb9ce2442ca/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/SECURITY+)
+- [CompTIA Security+](https://www.credly.com/badges/43db5ce5-bd63-4076-b170-596021eb624a/public_url)
 - [Microsoft AZ-900](https://www.youtube.com/CREDLYLINK)
 - [Oracle Cloud Infrastructure Associate](https://www.youtube.com/CREDLYLINK)
 
