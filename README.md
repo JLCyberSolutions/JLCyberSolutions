@@ -23,7 +23,8 @@
 
 - [CompTIA Network+](https://www.credly.com/badges/9ae0aa89-ef85-47b2-925f-bfb9ce2442ca/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/43db5ce5-bd63-4076-b170-596021eb624a/public_url)
-- [Microsoft AZ-900](https://www.youtube.com/CREDLYLINK)
+- [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000611240/v7cechdssx)
+- [Microsoft AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/JacobLloyd-9931/559847F44703ECB7?sharingId=1EABAAFBF731A3AB)
 - [Oracle Cloud Infrastructure Associate](https://www.youtube.com/CREDLYLINK)
 
 
