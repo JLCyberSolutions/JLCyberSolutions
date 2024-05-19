@@ -9,10 +9,11 @@
   - [SIEM Logging & Alert Configuration Home Lab](https://github.com/JacobLloydCyber/LABURL)
 
 
-<h2>📝 Scripting:</h2>
+<h2>📝 Linux:</h2>
 
-- <b>Bash</b>
-- <b>Python</b>
+- [Challenge Lab A](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
+- [Challenge Lab B](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
+- [Challenge Lab C](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
 
 <h2>📄 Resume</h2>
 
