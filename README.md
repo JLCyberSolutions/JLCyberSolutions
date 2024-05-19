@@ -11,9 +11,9 @@
 
 <h2>📝 Linux:</h2>
 
-- [Challenge Lab A](https://github.com/JacobLloydCyber/ChallengeLabA)
-- [Challenge Lab B](https://github.com/JacobLloydCyber/ChallengeLabB)
-- [Challenge Lab C](https://github.com/JacobLloydCyber/ChallengeLabC)
+- [Challenge Lab A: User Management](https://github.com/JacobLloydCyber/ChallengeLabA)
+- [Challenge Lab B: Bash Scripting](https://github.com/JacobLloydCyber/ChallengeLabB)
+- [Challenge Lab C: Log File Archiving](https://github.com/JacobLloydCyber/ChallengeLabC)
 
 <h2>📄 Resume</h2>
 
