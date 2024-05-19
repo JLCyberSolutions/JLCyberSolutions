@@ -11,7 +11,7 @@
 
 <h2>📝 Linux:</h2>
 
-- [Challenge Lab A](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
+- [Challenge Lab A](https://github.com/JacobLloydCyber/ChallengeLabA)
 - [Challenge Lab B](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
 - [Challenge Lab C](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
 
