@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jacob! 
   
-  <a href="https://www.linkedin.com/in/jacoblloydcyber/">Cybersecurity Professional</a>,   <a href="https://www.linkedin.com/in/jacoblloydcyber/">IT Specialist</a>
+  <a href="https://www.linkedin.com/in/jacoblloydcyber/">Network Administrator</a> & <a href="https://www.linkedin.com/in/jacoblloydcyber/">IT Specialist</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Networking & Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
   - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL)
