@@ -30,7 +30,7 @@
 - [CompTIA Security+](https://www.credly.com/badges/43db5ce5-bd63-4076-b170-596021eb624a/public_url)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000611240/v7cechdssx)
 - [Microsoft AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/JacobLloyd-9931/559847F44703ECB7?sharingId=1EABAAFBF731A3AB)
-- [Oracle Cloud Infrastructure Associate](https://brm-certification.oracle.com/apex/f?p=1111:6:104044572420843::NO:::)
+- [Oracle Cloud Infrastructure Associate](https://drive.google.com/file/d/1ifb51Mq0zYrZxKMMW1CwPwyiAnk6rTPR/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
