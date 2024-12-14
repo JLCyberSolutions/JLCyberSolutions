@@ -17,7 +17,7 @@
 
 <h2>📄 Resume</h2>
 
-- [Resume](https://www.youtube.com/Resume)
+- [Resume](https://SOME-LINK-TO-RESUME)
 
 
 <h2>🔖 Certifications</h2>
@@ -30,7 +30,7 @@
 - [CompTIA Security+](https://www.credly.com/badges/43db5ce5-bd63-4076-b170-596021eb624a/public_url)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000611240/v7cechdssx)
 - [Microsoft AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/JacobLloyd-9931/559847F44703ECB7?sharingId=1EABAAFBF731A3AB)
-- [Oracle Cloud Infrastructure Associate](https://www.youtube.com/CREDLYLINK)
+- [Oracle Cloud Infrastructure Associate](LINK-TO-CERTIFICATION)
 
 
 <h2> 🤳 Connect with me:</h2>
