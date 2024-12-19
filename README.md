@@ -5,8 +5,9 @@
 <h2>👨‍💻 Networking & Access Management Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
-  - [Nessus Vulnerability Management Lab](https://github.com/JacobLloydCyber/LABURL) --> packet tracer / CML config compilation?
-  - [SIEM Logging & Alert Configuration Home Lab](https://github.com/JacobLloydCyber/LABURL) --> Juniper vLabs config compilation?
+  - [Packet Tracer Configuration Compilation](https://github.com/JacobLloydCyber/LABURL) UNFINISHED
+  - [Juniper vLabs Topology Configurations](https://github.com/JacobLloydCyber/LABURL) UNFINISHED
+  - [CML Topologies and Configurations](https://github.com/JacobLloydCyber/LABURL) UNFINISHED
 
 
 <h2>📝 Linux:</h2>
