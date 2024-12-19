@@ -23,9 +23,9 @@
 <h2>🔖 Certifications</h2>
 
 - [CCNA - Cisco Certified Network Associate](https://www.credly.com/earner/earned/badge/518350f5-ee35-4064-a5c8-766495d99239)
-- [JNCIA Certified Network Design Associate](https://INSERT-LINK-HERE)
+- [JNCIA Certified Network Design Associate](https://www.credly.com/badges/00fc2563-1848-45df-9e81-fc15afeb3df7/public_url)
 - [JNCIA Certified Mist AI Associate](https://www.credly.com/earner/earned/badge/2146bb78-38bb-43fd-a29d-33f27c357ee6)
-- [JNCIA Certified Junos User](https://INSERT-LINK-HERE)
+- [JNCIA Certified Junos User](https://www.credly.com/badges/a8f4afa0-400e-4afe-8237-c8bdaf453c08/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/9ae0aa89-ef85-47b2-925f-bfb9ce2442ca/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/43db5ce5-bd63-4076-b170-596021eb624a/public_url)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000611240/v7cechdssx)
