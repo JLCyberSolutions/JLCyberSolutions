@@ -4,17 +4,17 @@
 
 <h2>👨‍💻 Networking & Access Management Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/JacobLloydCyber/ActiveDirectoryLab)
-  - [Packet Tracer Configuration Compilation](https://github.com/JacobLloydCyber/LABURL) UNFINISHED
-  - [Juniper vLabs Topology Configurations](https://github.com/JacobLloydCyber/LABURL) UNFINISHED
-  - [CML Topologies and Configurations](https://github.com/JacobLloydCyber/LABURL) UNFINISHED
+  - [Active Directory Home Lab](https://github.com/JLCyberSolutions/ActiveDirectoryLab)
+  - [Packet Tracer Configuration Compilation](https://github.com/JLCyberSolutions/LABURL) UNFINISHED
+  - [Juniper vLabs Topology Configurations](https://github.com/JLCyberSolutions/LABURL) UNFINISHED
+  - [CML Topologies and Configurations](https://github.com/JLCyberSolutions/LABURL) UNFINISHED
 
 
 <h2>📝 Linux:</h2>
 
-- [Challenge Lab A: User Management](https://github.com/JacobLloydCyber/ChallengeLabA)
-- [Challenge Lab B: Bash Scripting](https://github.com/JacobLloydCyber/ChallengeLabB)
-- [Challenge Lab C: Log File Archiving](https://github.com/JacobLloydCyber/ChallengeLabC)
+- [Challenge Lab A: User Management](https://github.com/JLCyberSolutions/ChallengeLabA)
+- [Challenge Lab B: Bash Scripting](https://github.com/JLCyberSolutions/ChallengeLabB)
+- [Challenge Lab C: Log File Archiving](https://github.com/JLCyberSolutions/ChallengeLabC)
 
 <h2>📄 Resume</h2>
 
