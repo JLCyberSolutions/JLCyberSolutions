@@ -5,9 +5,9 @@
 <h2>👨‍💻 Networking & Access Management Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/JLCyberSolutions/ActiveDirectoryLab)
-  - [Packet Tracer Configuration Compilation](https://github.com/JLCyberSolutions/LABURL) UNFINISHED
-  - [Juniper vLabs Topology Configurations](https://github.com/JLCyberSolutions/LABURL) UNFINISHED
-  - [CML Topologies and Configurations](https://github.com/JLCyberSolutions/LABURL) UNFINISHED
+  - [Packet Tracer Configuration Compilation](https://github.com/JLCyberSolutions/LABURL) COMING SOON!
+  - [Juniper vLabs Topology Configurations](https://github.com/JLCyberSolutions/LABURL) COMING SOON!
+  - [CML Topologies and Configurations](https://github.com/JLCyberSolutions/LABURL) COMING SOON!
 
 
 <h2>📝 Linux:</h2>
