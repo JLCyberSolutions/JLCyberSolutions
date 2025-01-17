@@ -18,8 +18,8 @@
 
 <h2>📄 Resume</h2>
 
-- [Resume](https://SOME-LINK-TO-RESUME)
-
+- [Resume](https://drive.google.com/file/d/15EHzVOK75s9invhIFNBgO3TFUjiD0wjy/view?usp=sharing)
+  
 
 <h2>🔖 Certifications</h2>
 
